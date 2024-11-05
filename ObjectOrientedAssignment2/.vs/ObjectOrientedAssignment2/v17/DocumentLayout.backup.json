@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ylee39\\Downloads\\ObjectOrientedAssignment2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAD854BC-9C8E-4B72-A8EC-F1D0D30506CC}|ObjectOrientedAssignment2\\ObjectOrientedAssignment2.csproj|c:\\users\\ylee39\\downloads\\objectorientedassignment2\\objectorientedassignment2\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAD854BC-9C8E-4B72-A8EC-F1D0D30506CC}|ObjectOrientedAssignment2\\ObjectOrientedAssignment2.csproj|solutionrelative:objectorientedassignment2\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAD854BC-9C8E-4B72-A8EC-F1D0D30506CC}|ObjectOrientedAssignment2\\ObjectOrientedAssignment2.csproj|c:\\users\\ylee39\\downloads\\objectorientedassignment2\\objectorientedassignment2\\domain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAD854BC-9C8E-4B72-A8EC-F1D0D30506CC}|ObjectOrientedAssignment2\\ObjectOrientedAssignment2.csproj|solutionrelative:objectorientedassignment2\\domain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAD854BC-9C8E-4B72-A8EC-F1D0D30506CC}|ObjectOrientedAssignment2\\ObjectOrientedAssignment2.csproj|c:\\users\\ylee39\\downloads\\objectorientedassignment2\\objectorientedassignment2\\domain\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAD854BC-9C8E-4B72-A8EC-F1D0D30506CC}|ObjectOrientedAssignment2\\ObjectOrientedAssignment2.csproj|solutionrelative:objectorientedassignment2\\domain\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAD854BC-9C8E-4B72-A8EC-F1D0D30506CC}|ObjectOrientedAssignment2\\ObjectOrientedAssignment2.csproj|c:\\users\\ylee39\\downloads\\objectorientedassignment2\\objectorientedassignment2\\domain\\bcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAD854BC-9C8E-4B72-A8EC-F1D0D30506CC}|ObjectOrientedAssignment2\\ObjectOrientedAssignment2.csproj|solutionrelative:objectorientedassignment2\\domain\\bcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAD854BC-9C8E-4B72-A8EC-F1D0D30506CC}|ObjectOrientedAssignment2\\ObjectOrientedAssignment2.csproj|c:\\users\\ylee39\\downloads\\objectorientedassignment2\\objectorientedassignment2\\technicalservices\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAD854BC-9C8E-4B72-A8EC-F1D0D30506CC}|ObjectOrientedAssignment2\\ObjectOrientedAssignment2.csproj|solutionrelative:objectorientedassignment2\\technicalservices\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAD854BC-9C8E-4B72-A8EC-F1D0D30506CC}|ObjectOrientedAssignment2\\ObjectOrientedAssignment2.csproj|c:\\users\\ylee39\\downloads\\objectorientedassignment2\\objectorientedassignment2\\technicalservices\\programs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAD854BC-9C8E-4B72-A8EC-F1D0D30506CC}|ObjectOrientedAssignment2\\ObjectOrientedAssignment2.csproj|solutionrelative:objectorientedassignment2\\technicalservices\\programs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 309,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cs",
+              "DocumentMoniker": "C:\\Users\\ylee39\\Downloads\\ObjectOrientedAssignment2\\ObjectOrientedAssignment2\\main.cs",
+              "RelativeDocumentMoniker": "ObjectOrientedAssignment2\\main.cs",
+              "ToolTip": "C:\\Users\\ylee39\\Downloads\\ObjectOrientedAssignment2\\ObjectOrientedAssignment2\\main.cs",
+              "RelativeToolTip": "ObjectOrientedAssignment2\\main.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwDUAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:56:51.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Students.cs",
+              "DocumentMoniker": "C:\\Users\\ylee39\\Downloads\\ObjectOrientedAssignment2\\ObjectOrientedAssignment2\\TechnicalServices\\Students.cs",
+              "RelativeDocumentMoniker": "ObjectOrientedAssignment2\\TechnicalServices\\Students.cs",
+              "ToolTip": "C:\\Users\\ylee39\\Downloads\\ObjectOrientedAssignment2\\ObjectOrientedAssignment2\\TechnicalServices\\Students.cs",
+              "RelativeToolTip": "ObjectOrientedAssignment2\\TechnicalServices\\Students.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:55:21.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Programs.cs",
+              "DocumentMoniker": "C:\\Users\\ylee39\\Downloads\\ObjectOrientedAssignment2\\ObjectOrientedAssignment2\\TechnicalServices\\Programs.cs",
+              "RelativeDocumentMoniker": "ObjectOrientedAssignment2\\TechnicalServices\\Programs.cs",
+              "ToolTip": "C:\\Users\\ylee39\\Downloads\\ObjectOrientedAssignment2\\ObjectOrientedAssignment2\\TechnicalServices\\Programs.cs",
+              "RelativeToolTip": "ObjectOrientedAssignment2\\TechnicalServices\\Programs.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:52:54.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ylee39\\Downloads\\ObjectOrientedAssignment2\\ObjectOrientedAssignment2\\Domain\\Student.cs",
+              "RelativeDocumentMoniker": "ObjectOrientedAssignment2\\Domain\\Student.cs",
+              "ToolTip": "C:\\Users\\ylee39\\Downloads\\ObjectOrientedAssignment2\\ObjectOrientedAssignment2\\Domain\\Student.cs",
+              "RelativeToolTip": "ObjectOrientedAssignment2\\Domain\\Student.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:52:52.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BCS.cs",
+              "DocumentMoniker": "C:\\Users\\ylee39\\Downloads\\ObjectOrientedAssignment2\\ObjectOrientedAssignment2\\Domain\\BCS.cs",
+              "RelativeDocumentMoniker": "ObjectOrientedAssignment2\\Domain\\BCS.cs",
+              "ToolTip": "C:\\Users\\ylee39\\Downloads\\ObjectOrientedAssignment2\\ObjectOrientedAssignment2\\Domain\\BCS.cs",
+              "RelativeToolTip": "ObjectOrientedAssignment2\\Domain\\BCS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:52:50.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ylee39\\Downloads\\ObjectOrientedAssignment2\\ObjectOrientedAssignment2\\Domain\\Program.cs",
+              "RelativeDocumentMoniker": "ObjectOrientedAssignment2\\Domain\\Program.cs",
+              "ToolTip": "C:\\Users\\ylee39\\Downloads\\ObjectOrientedAssignment2\\ObjectOrientedAssignment2\\Domain\\Program.cs",
+              "RelativeToolTip": "ObjectOrientedAssignment2\\Domain\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:52:48.808Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
